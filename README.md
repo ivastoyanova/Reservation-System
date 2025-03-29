@@ -1,4 +1,4 @@
-# Reservation-System
+# IPC-Reservation-System
 This project is a simple reservation system using System V message queues for Inter-Process Communication (IPC). The system consists of a server that manages reservations and a client that sends reservation requests. 
 
 Main Aspects of the Project: 
